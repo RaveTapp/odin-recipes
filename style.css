@@ -1,3 +1,8 @@
 * {
     background-color: rgb(148, 213, 230);
 }
+
+.pics {
+    height: auto;
+    width: 500px;
+}
